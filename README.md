@@ -1,4 +1,4 @@
-A simple test program for the Raspberry Pi Pico.
+A simple test program for the Raspberry Pi Pico. (new!)
 
 Causes the LED to blink.
 
